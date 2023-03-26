@@ -49,6 +49,7 @@ MODEL_REGISTRY = {
     "bigscience/bloom-3b": BloomForCausalLM,
     "bigscience/bloom-7b1": BloomForCausalLM,
     "bigscience/bloom": AutoModelForCausalLM,
+    "BelleGroup/BELLE-7B-1M": AutoModelForCausalLM,
     "bigscience/T0pp": AutoModelForSeq2SeqLM,
     "bigscience/T0_3B": AutoModelForSeq2SeqLM,
     "google/t5-small-lm-adapt": AutoModelForSeq2SeqLM,  # 220M
